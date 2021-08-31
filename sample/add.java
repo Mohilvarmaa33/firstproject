@@ -2,7 +2,7 @@ package thanveer;
 
 public class add {
 	static int a=10; //static
-	int b=20; //non-static
+	int b=30; //non-static
 	public static void main(String[] args) {
 		add s=new add();
 		
